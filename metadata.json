@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoFlow - Workflow Automator",
+  "description": "Monitors your browser activity via screen recording to analyze workflows and suggest automation scripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
